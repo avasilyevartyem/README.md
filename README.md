@@ -1,6 +1,6 @@
 <div>
 
-<h1 align="center">Hi there, I'm Artem, Frontend Developer from Saint-Petersburg</h1>
+<h1 align="center">Hi there</h1>
 </div>
 
 <div align="left">
